@@ -1,5 +1,8 @@
 ## Notes
 
+Link to the project: https://testing-comfystoreapp.netlify.app/
+
+
 #### Older React Version
 
 ```
